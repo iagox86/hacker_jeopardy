@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Memes",
+    "questions": [
+      {
+        "question": "This is the day designated for one to get down on",
+        "answer": "Friday"
+      },
+      {
+        "question": "This \"scumbag\" persona is a kid with a sideways cap standing in a hallway",
+        "answer": "Scumbag Steve"
+      },
+      {
+        "question": "Ring ring ring ring ring ring ring... it's this!",
+        "answer": "Banana phone"
+      },
+      {
+        "question": "This guy will tell you how awful your kids drawing are - among other things - at his self-proclaimed \"best page in the universe\"",
+        "answer": "Maddox"
+      },
+      {
+        "question": "The original Star Wars Kid used this as a fake Light Sabre",
+        "answer": "Golf ball retriever"
+      }
+    ]
+  },
+  {
+    "name": "Ports!",
+    "questions": [
+      {
+        "question": "This is the most common protocol to run on port 80",
+        "answer": "HTTP"
+      },
+      {
+        "question": "I would use this port to resolve a domain name into an ip address",
+        "answer": "53"
+      },
+      {
+        "question": "This is the port that the \"echo\" service runs on",
+        "answer": "7"
+      },
+      {
+        "question": "This port is commonly used by FTP as the data channel",
+        "answer": "20 (*not* 21)"
+      },
+      {
+        "question": "Blizzard \"stole\" this port from dtspcd, a network daemon that accepts requests from clients to execute commands",
+        "answer": "6112"
+      }
+    ]
+  },
+  {
+    "name": "Mike Judge",
+    "questions": [
+      {
+        "question": "He's Bobby Hill's father on King of the Hill",
+        "answer": "Hank Hill"
+      },
+      {
+        "question": "This was Mike Judge's first foray into cartoons, and is about a pair of teenagers who watch music videos",
+        "answer": ""
+      },
+      {
+        "question": "This is the brand of red stapler that Office Space's Milton loves",
+        "answer": "Swingline"
+      },
+      {
+        "question": "Office Space is based on this series of animated shorts",
+        "answer": "Milton"
+      },
+      {
+        "question": "This character, whose name sounds like a computer term, is Rita's pimp in Idiocracy",
+        "answer": "Upgrayedd"
+      }
+    ]
+  },
+  {
+    "name": "H4><0|2",
+    "questions": [
+      {
+        "question": "The popular phrase \"H4><0|2\" translates to this English word",
+        "answer": "Hacker"
+      },
+      {
+        "question": "The English word that \"1337\" represents",
+        "answer": "Elite (\"leet\" isn't an English word)"
+      },
+      {
+        "question": "The popularity of the number \"5318008\" can be directly attributed to it looks like this word, on a calculator",
+        "answer": "BOOBIES"
+      },
+      {
+        "question": "This popular type of Web site is sometimes mistaken for a crustacean",
+        "answer": "Porn (\"pr0n\" or \"prawn\")"
+      },
+      {
+        "question": "This roughly translates to, \"|_1/3 |_0||6 || pr0sp3r\"",
+        "answer": "Live long and prosper"
+      }
+    ]
+  },
+  {
+    "name": "Hacker movies",
+    "questions": [
+      {
+        "question": "\"Zero Cool\" is the star of this movie, where his claim to fame is crashing 1,507 systems in one day",
+        "answer": "Hackers"
+      },
+      {
+        "question": "This is the name of the game that a young hacker thinks he's playing with the WOPR Supercomputer",
+        "answer": "Global Thermonuclear War"
+      },
+      {
+        "question": "\"Takedown\", a 2000 film never released, is the story of the pursuit and arrest of this famous hacker",
+        "answer": "Kevin Mitnick"
+      },
+      {
+        "question": "This symbol was used to indicate backdoored Web sites in \"The Net\"",
+        "answer": "Pi"
+      },
+      {
+        "question": "These are the four most common passwords, according to the cult classic \"Hackers\"",
+        "answer": "Love, Sex, Secret, and God"
+      }
+    ]
+  },
+  {
+    "name": "Crypto",
+    "questions": [
+      {
+        "question": "This simple cipher shifts each character by a given value",
+        "answer": "Caesar cipher"
+      },
+      {
+        "question": "This was the effective keysize of the DES cipher",
+        "answer": "56 bits (7 bytes)"
+      },
+      {
+        "question": "This country was the first to break the Enigma machine",
+        "answer": "Poland (at the Polish Cipher Bureau)"
+      },
+      {
+        "question": "The AES standards defines this many possible block sizes",
+        "answer": "1 (128 bits)"
+      },
+      {
+        "question": "This cipher was used incorrectly in WEP",
+        "answer": "RC4"
+      }
+    ]
+  }
+]

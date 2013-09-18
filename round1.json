@@ -1,0 +1,152 @@
+[
+  {
+    "name": "\"pop\" culture",
+    "questions": [
+      {
+        "question": "It runs on port 110",
+        "answer": "POP3 / Post Office Protocol"
+      },
+      {
+        "question": "This popular soda, first brewed in Winnipeg in 1971, is beginning to make a comeback",
+        "answer": "Pic-a-pop"
+      },
+      {
+        "question": "This popular snack features clusters of popcorn, almonds, and pecans covered in a candy glaze",
+        "answer": "Poppysock"
+      },
+      {
+        "question": "This children's book was written by Dr Suess",
+        "answer": "Hop On Pop"
+      },
+      {
+        "question": "This musician, known as an innovator and \"godfather\" of punk rock, is actually named \"James Newell Osterberg\"",
+        "answer": "Iggy Pop"
+      }
+    ]
+  },
+  {
+    "name": "Tech companies",
+    "questions": [
+      {
+        "question": "This company bought DOS in the early 1980s, and is still one of the most powerful tech companies in the world",
+        "answer": "Microsoft"
+      },
+      {
+        "question": "This company stunned millions when they bought Tumblr earlier this year",
+        "answer": "Yahoo"
+      },
+      {
+        "question": "IOS was developed by this company",
+        "answer": "Cisco"
+      },
+      {
+        "question": "This company currently owns the rights to Java",
+        "answer": "Oracle"
+      },
+      {
+        "question": "This large networking company was named after the city where it was founded - San Francisco",
+        "answer": "Cisco"
+      }
+    ]
+  },
+  {
+    "name": "Bits and bytes",
+    "questions": [
+      {
+        "question": "This is \"7\" in hexadecimal",
+        "answer": "7"
+      },
+      {
+        "question": "This is the largest number that can be represented with 8 bits",
+        "answer": "255"
+      },
+      {
+        "question": "This is the hex number 0x80, in decimal",
+        "answer": "128"
+      },
+      {
+        "question": "This is the most common technique for representing negative numbers at the bit level",
+        "answer": "Two's complement"
+      },
+      {
+        "question": "This is the two's complement of the binary number, 11111111",
+        "answer": "1 (or 00000001)"
+      }
+    ]
+  },
+  {
+    "name": "90s tv",
+    "questions": [
+      {
+        "question": "He was commonly known as \"The Fresh Prince\"",
+        "answer": "Will Smith"
+      },
+      {
+        "question": "This popular cartoon family was based on poorly drawn shorts on the Tracy Ullman show",
+        "answer": "The Simpsons"
+      },
+      {
+        "question": "This show was about a man who run around cutting heads off immortals",
+        "answer": "Highlander"
+      },
+      {
+        "question": "This is the name of George Costanza's fake company",
+        "answer": "Vandelay Industries"
+      },
+      {
+        "question": "The first husband of Al Bundy's neighbour, Marcy",
+        "answer": "Steve Rhoades"
+      }
+    ]
+  },
+  {
+    "name": "Simpsons",
+    "questions": [
+      {
+        "question": "He's the all-too-friendly next door neighbour",
+        "answer": "Ned Flanders"
+      },
+      {
+        "question": "This is the name of the Simpsons family's dog",
+        "answer": "Santa's Little Helper"
+      },
+      {
+        "question": "In the famous two-part episode, this person was the one who shot Mr Burns",
+        "answer": "Maggie Simpson"
+      },
+      {
+        "question": "These are the names of the three main bullies (not counting Nelson)",
+        "answer": "Jimbo, Kearney, and Dolph (or \"James Jones\", \"Kevin Zzyzwicz\", and \"Darren Starbeam\")"
+      },
+      {
+        "question": "This toy, released by Kid First Industries, was programmed to attack other toys",
+        "answer": "Funzo"
+      }
+    ]
+  },
+  {
+    "name": "Famous hackers",
+    "questions": [
+      {
+        "question": "This is the core maintainer of the Linux operating system",
+        "answer": "Linus Torvalds"
+      },
+      {
+        "question": "Rumours that he could launch nuclear missiles by whistling into the phone caused this man to be left in solitary confinement for 8 months",
+        "answer": "Kevin Mitnick"
+      },
+      {
+        "question": "John \"Captain Crunch\" Draper discovered that toy whistles from the Captain Crunch box blew this very important frequency",
+        "answer": "2600 hertz"
+      },
+      {
+        "question": "This man wrote - and shares his name with - the first (known) computer worm in history",
+        "answer": "Robert Morris"
+      },
+      {
+        "question": "This man helped the FBI capture Kevin Mitnick",
+        "answer": "Tsutomu Shimomura"
+      }
+    ]
+  }
+]

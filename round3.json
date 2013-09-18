@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Winnipeg",
+    "questions": [
+      {
+        "question": "This is the first - and only - hackerspace in Winnipeg",
+        "answer": "SkullSpace"
+      },
+      {
+        "question": "Winnipeg officially became a city in this year (the same year that Manitoba became a province)",
+        "answer": "1873"
+      },
+      {
+        "question": "The Northwest Company built this fort, which was re-built in 1978 by the Festival du Voyageur",
+        "answer": "Fort Gibraltar"
+      },
+      {
+        "question": "This ship is the featured exhibit at the Manitoba Museum",
+        "answer": "The Nonsuch"
+      },
+      {
+        "question": "This is Winnipeg's motto (Latin or English are fine)",
+        "answer": "\"Unum Cum Virtute Multorum\" (One with the Strength of Many)"
+      }
+    ]
+  },
+  {
+    "name": "Star Trek",
+    "questions": [
+      {
+        "question": "This race is well known for their combative attitude and ridged foreheads",
+        "answer": "Klingons"
+      },
+      {
+        "question": "This popular invention is a safe way to explore fantasies, except when it breaks (and you get slapped with a paternity suit)",
+        "answer": "Holodeck or Holosuite"
+      },
+      {
+        "question": "The \"T\" in \"James T Kirk\" stands for this",
+        "answer": "Tiberius"
+      },
+      {
+        "question": "This character's name comes from the Bajoran word for \"Unknown Sample\"",
+        "answer": "Odo"
+      },
+      {
+        "question": "This is a test given to every Starfleet cadet that no one is expected to pass (except James T Kirk, who cheated)",
+        "answer": "Kobayashi Maru"
+      }
+    ]
+  },
+  {
+    "name": "Three letter agencies",
+    "questions": [
+      {
+        "question": "This is the agency that will give you the \"love pat\" at airports all over America",
+        "answer": "TSA"
+      },
+      {
+        "question": "This agency is famous for the \"prism\" technology this year",
+        "answer": "NSA"
+      },
+      {
+        "question": "This agency, amongst other things, regulates alcohol and firearms",
+        "answer": "ATF"
+      },
+      {
+        "question": "This Canadian agency is responsible for signal intelligence",
+        "answer": "CSE (or CST, CSEC, CSTC, CSE-CST)"
+      },
+      {
+        "question": "This agency led the raid that killed Osama Bin Laden",
+        "answer": "CIA"
+      }
+    ]
+  },
+  {
+    "name": "Wireless",
+    "questions": [
+      {
+        "question": "This typically runs from 87.5 to 108.0 MHz",
+        "answer": "FM"
+      },
+      {
+        "question": "This is the first wireless standard to use the 5.4ghz band",
+        "answer": "802.11a (will also accept just 'a')"
+      },
+      {
+        "question": "It's what WEP stands for",
+        "answer": "Wired Equivalent Privacy (must be exact!)"
+      },
+      {
+        "question": "This is the number of non-overlapping channels on a 802.11g network",
+        "answer": "3"
+      },
+      {
+        "question": "This is the common name for the 802.11i standard",
+        "answer": "WPA2"
+      }
+    ]
+  },
+  {
+    "name": "Beer!",
+    "questions": [
+      {
+        "question": "This beverage, brewed since ancient times, is made from hops and grains?",
+        "answer": "Beer"
+      },
+      {
+        "question": "This is the common unit for measuring bitterness of beer",
+        "answer": "International Bitterness Units (or IBU)"
+      },
+      {
+        "question": "\"Bitburger\" beer comes from this country",
+        "answer": "Germany"
+      },
+      {
+        "question": "According to (likely incorrect) legend, this is the reason the Pilgrims chose to land at Plymouth Rock",
+        "answer": "They ran out of beer"
+      },
+      {
+        "question": "The oldest known recipe for beer was found on a stone tablet from this ancient civilization",
+        "answer": "The Sumerians"
+      }
+    ]
+  },
+  {
+    "name": "Female role models",
+    "questions": [
+      {
+        "question": "With the help of her watcher, Ruper Giles, she fights the undead in a long running sci fi series",
+        "answer": "Buffy  (the Vampire Slayer)"
+      },
+      {
+        "question": "She and Fox Mulder track paranormal activities for the FBI",
+        "answer": "Dana Scully"
+      },
+      {
+        "question": "Her triangular boobs have kept teenagers rivited since her first game in 1996",
+        "answer": "Lara Croft"
+      },
+      {
+        "question": "She was in command of the starship that was taken across the galaxy by the Caretaker",
+        "answer": "Captain Katherine Janeway"
+      },
+      {
+        "question": "She goes by the callsign \"Starbuck\" when she flies her Viper into battle",
+        "answer": "Kara Thrace"
+      }
+    ]
+  }
+]
